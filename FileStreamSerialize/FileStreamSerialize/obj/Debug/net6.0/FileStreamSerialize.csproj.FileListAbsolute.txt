@@ -1,0 +1,17 @@
+C:\Users\sabir\OneDrive\Рабочий стол\FileStreamSerialize\FileStreamSerialize\bin\Debug\net6.0\FileStreamSerialize.exe
+C:\Users\sabir\OneDrive\Рабочий стол\FileStreamSerialize\FileStreamSerialize\bin\Debug\net6.0\FileStreamSerialize.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\FileStreamSerialize\FileStreamSerialize\bin\Debug\net6.0\FileStreamSerialize.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\FileStreamSerialize\FileStreamSerialize\bin\Debug\net6.0\FileStreamSerialize.dll
+C:\Users\sabir\OneDrive\Рабочий стол\FileStreamSerialize\FileStreamSerialize\bin\Debug\net6.0\FileStreamSerialize.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\FileStreamSerialize\FileStreamSerialize\obj\Debug\net6.0\FileStreamSerialize.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\FileStreamSerialize\FileStreamSerialize\obj\Debug\net6.0\FileStreamSerialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\FileStreamSerialize\FileStreamSerialize\obj\Debug\net6.0\FileStreamSerialize.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\FileStreamSerialize\FileStreamSerialize\obj\Debug\net6.0\FileStreamSerialize.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\FileStreamSerialize\FileStreamSerialize\obj\Debug\net6.0\FileStreamSerialize.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\FileStreamSerialize\FileStreamSerialize\obj\Debug\net6.0\FileStreamSerialize.dll
+C:\Users\sabir\OneDrive\Рабочий стол\FileStreamSerialize\FileStreamSerialize\obj\Debug\net6.0\refint\FileStreamSerialize.dll
+C:\Users\sabir\OneDrive\Рабочий стол\FileStreamSerialize\FileStreamSerialize\obj\Debug\net6.0\FileStreamSerialize.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\FileStreamSerialize\FileStreamSerialize\obj\Debug\net6.0\FileStreamSerialize.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\FileStreamSerialize\FileStreamSerialize\obj\Debug\net6.0\ref\FileStreamSerialize.dll
+C:\Users\sabir\OneDrive\Рабочий стол\FileStreamSerialize\FileStreamSerialize\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sabir\OneDrive\Рабочий стол\FileStreamSerialize\FileStreamSerialize\obj\Debug\net6.0\FileStreamSerialize.csproj.CopyComplete

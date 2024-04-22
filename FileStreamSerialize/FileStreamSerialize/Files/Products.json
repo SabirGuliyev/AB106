@@ -1,0 +1,27 @@
+[
+  
+  {
+    "Id": 1,
+    "Name": "Iphone 15",
+    "Price": 2000.0,
+    "Category": { "Name": "Mobile" }
+  },
+  {
+    "Id": 2,
+    "Name": "Samsung s23",
+    "Price": 2400.0,
+    "Category": { "Name": "Mobile" }
+  },
+  {
+    "Id": 3,
+    "Name": "Xiaomi POCO 5x",
+    "Price": 1000.0,
+    "Category": { "Name": "Mobile" }
+  },
+  {
+    "Id": 4,
+    "Name": "Nokia 6300",
+    "Price": 20.0,
+    "Category": { "Name": "Mobile" }
+  }
+]
